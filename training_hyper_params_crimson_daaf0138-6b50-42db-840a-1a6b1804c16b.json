@@ -1,0 +1,7 @@
+{
+    "batch_sz": 64,
+    "entropy_c": 1e-07,
+    "gamma": 0.999,
+    "lr": 7e-06,
+    "value_c": 0.6
+}

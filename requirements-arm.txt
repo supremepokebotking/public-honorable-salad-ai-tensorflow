@@ -1,0 +1,6 @@
+gym
+Flask
+jsonpickle
+flask-cors
+numpy>=1.18.0
+flask_restful
